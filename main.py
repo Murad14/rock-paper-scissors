@@ -27,7 +27,6 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
 game_image = [rock, paper, scissors]
 type = int(
     input(
